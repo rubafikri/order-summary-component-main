@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshots/order-summary-card-mobile.png)
-![](./screenshots/order-summary-card-desktop.png)
+![](./design/desktop-design.jpg)
+![](./design/mobile-design.jpg)
 
 ## My process
 
